@@ -1,0 +1,10 @@
+# Core Namibia model and calibration
+numpy
+pandas
+scipy
+matplotlib
+pyreadr
+rasterio
+optuna
+
+# Optional: install geopandas to draw national park boundaries.
